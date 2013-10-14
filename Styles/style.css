@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body, div, header, nav, section, article, aside, footer, textarea {
+    display: block;
+}
+h1{
+    padding-top: 12px;
+    padding-bottom: 3px;
+    padding-left: 20%;
+}
+textarea {
+    margin-left: 95px;
+    padding-left: 28%;
+}
+#button {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 50%;
+}
